@@ -2,7 +2,7 @@
   "Hot": "Hot",
   "Posts": "Posts",
   "Creator Coin": "Creator Coin",
-  "Diamonds": "Etuio Diamonds",
+  "Diamonds": "Holfeld Diamonds",
   "NFTs": "NFTs",
   "Given": "Given",
   "Received": "Received",
@@ -185,8 +185,8 @@
     "price": "Price"
   },
   "diamonds_pages": {
-    "diamonds_from": "Etuio Diamonds from",
-    "diamonds_given_by": "Etuio Diamonds Given By"
+    "diamonds_from": "Holfeld Diamonds from",
+    "diamonds_given_by": "Holfeld Diamonds Given By"
   },
   "direct_to_browser_modal": {
     "tap_ellipsis": "1. Tap elipsis",
@@ -289,7 +289,7 @@
     "hide": "Hide",
     "repost": "Repost",
     "quote": "Quote",
-    "give_diamond": "Give an Etuio diamond.",
+    "give_diamond": "Give a Holfeld diamond.",
     "will_receive": "will receive the amount shown as a tip from you.",
     "slide": "<- Slide ->",
     "release_to_cancel": "Release To Cancel",
@@ -327,23 +327,23 @@
   },
   "landing": {
     "login": "Login",
-    "signup": "Create Etuio Account",
-    "signuptoday": "Create Etuio Account",
-    "settle": "Etuio Diamonds - The home for creators & communities",
+    "signup": "Create Holfeld Account",
+    "signuptoday": "Create Holfeld Account",
+    "settle": "Holfeld Diamonds for creators & communities",
     "fora": "for a",
-    "diamonds": "Etuio Diamonds is the home for creators and their audience to build engaging communities around content, incentives & ownership."
+    "diamonds": "Holfeld Diamonds on the eternal decentralized social network is the home for creators and their audience to build engaging communities around content, incentives & ownership."
   },
   "left_bar": {
-    "home": "Etuio Home",
+    "home": "Holfeld Home",
     "buy_creators": "Discover",
     "buy_deso": "Buy DESO",
     "buy_deso2": "Buy $DESO",
     "notifications": "Notifications",
     "messages": "Messages",
-    "my_profile": "My Etuio Profile",
+    "my_profile": "My Holfeld Profile",
     "update_profile": "Update Profile",
-    "my_wallet": "My Etuio Wallet",
-    "tutorial": "Etuio Tutorial",
+    "my_wallet": "My Holfeld Wallet",
+    "tutorial": "Holfeld Tutorial",
     "referrals": "Referrals",
     "help": "Help",
     "post": "Post",
@@ -412,7 +412,7 @@
       }
     },
     "signup": {
-      "welcome_to_deso": "Welcome to Etuio Diamonds!",
+      "welcome_to_deso": "Welcome to Holfeld Diamonds!",
       "login": "Log In",
       "signup": "Sign Up"
     }
