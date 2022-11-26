@@ -31,11 +31,13 @@
             [isUnread]="globalVars.unreadNotifications > 0"
             [iconName]="globalVars.unreadNotifications > 0 ? 'bell-notification' : 'bell'"
           ></left-bar-button>
+          <!--
           <left-bar-button
             [link]="'/' + globalVars.RouteNames.CREATORS"
             [buttonLabel]="t('left_bar.buy_creators')"
             [iconName]="'users'"
           ></left-bar-button>
+          -->
           <left-bar-button
             [link]="'/' + globalVars.RouteNames.BUY_DESO"
             [buttonLabel]="t('left_bar.buy_deso')"

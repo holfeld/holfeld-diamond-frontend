@@ -36,6 +36,7 @@ header @html Content-Security-Policy "
     bithunt.deso.org
     pulse.deso.org
     bitclout.com:*
+    holfeld.com:*
     api.bitclout.com
     bithunt.bitclout.com
     pulse.bitclout.com

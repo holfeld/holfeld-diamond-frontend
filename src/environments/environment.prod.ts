@@ -1,10 +1,10 @@
 export const environment = {
   production: true,
-  nodeApi: "node.deso.org",
-  uploadImageHostname: "node.deso.org",
-  verificationEndpointHostname: "https://node.deso.org",
+  nodeApi: "diamondapp.com",
+  uploadImageHostname: "diamondapp.com",
+  verificationEndpointHostname: "https://diamondapp.com",
   apiInternalHostname: "https://diamondapp.com",
-  uploadVideoHostname: "node.deso.org",
+  uploadVideoHostname: "diamondapp.com",
   identityURL: "https://identity.deso.org",
   supportEmail: "",
   dd: {
@@ -19,9 +19,9 @@ export const environment = {
   },
   node: {
     id: 1,
-    name: "DeSo",
-    url: "https://deso.org",
-    logoAssetDir: "/assets/deso/",
+    name: "Diamond",
+    url: "https://diamondapp.com",
+    logoAssetDir: "/assets/diamond/",
   },
   megaswapURL: "https://megaswap.xyz",
   megaswapAPI: "https://megaswap.dev",
